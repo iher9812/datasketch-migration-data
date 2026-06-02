@@ -1,0 +1,40 @@
+# Datos crudos (pesados)
+Data/
+Archivo/
+outputs/
+
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Formatos binarios DANE
+**/*.DTA
+**/*.SAV
+**/*.dta
+**/*.sav
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+
+# Temporales del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo

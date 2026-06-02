@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+ipykernel>=6.0
+pyreadstat>=1.2
+nbconvert>=7.0
+nbclient>=0.7
+pyarrow>=12.0
