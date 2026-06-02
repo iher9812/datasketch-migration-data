@@ -253,10 +253,23 @@ datasketch-migration-data/
 
 ## 13. Referencias
 
+### Fuentes teóricas
+
 - D'Ignazio, C. & Klein, L. F. (2020). *Data Feminism*. MIT Press. https://data-feminism.mitpress.mit.edu/
 - Crenshaw, K. (1989). *Demarginalizing the Intersection of Race and Sex*.
-- Barboni, G., de Roux, N. & Pérez‑Cardona, S. (2024). *Perceived Social Acceptance and Migrants' Financial Inclusion*. Documento CEDE 2024‑48, Universidad de los Andes. (`Data/fuente1.md`)
-- IPA – Innovations for Poverty Action (2024–2025). *Inclusión financiera de migrantes venezolanos en Colombia*. (`Data/inclusion-financiera-migrantes-venezolanos-colombia.md`)
-- DANE. *Gran Encuesta Integrada de Hogares (GEIH) 2025*; *Encuesta Pulso de la Migración (EPM)*.
+
+### Fuentes de datos — Primarias
+
+- DANE (2025). *Gran Encuesta Integrada de Hogares (GEIH) 2025*. Recuperado de https://microdatos.dane.gov.co/index.php/catalog/879/study-description
+- DANE (s.f.). *Gran Encuesta Integrada de Hogares (GEIH) — Módulo F1: Características generales, seguridad social en salud y educación*. Recuperado de https://microdatos.dane.gov.co/index.php/catalog/853/data-dictionary/F1?file_name=Caracteristicas%20generales,%20seguridad%20social%20en%20salud%20y%20educacion
+- DANE. *Encuesta Pulso de la Migración (EPM) Ronda VIII*. Catálogo de microdatos DANE. https://microdatos.dane.gov.co/
+
+### Fuentes de datos — Investigación académica y aplicada
+
+- Barboni, G., de Roux, N. & Pérez‑Cardona, S. (2024). *Perceived Social Acceptance and Migrants' Financial Inclusion*. Documento CEDE 2024‑48, Universidad de los Andes. https://repositorio.uniandes.edu.co/flip/?pdf=/bitstreams/94acbfa4-596a-40cb-a5f3-7d781a0bbd16/download
+- Innovations for Poverty Action (2024–2025). *Financial Inclusion of Venezuelan Migrants in Colombia*. IPA Colombia Office. Recuperado de https://es.poverty-action.org/financial-inclusion-venezuelan-migrants-colombia
+
+### Fuentes de datos — Oferta financiera
+
 - Superintendencia Financiera de Colombia & Banca de las Oportunidades. *Reporte de Inclusión Financiera (RIF) 2024*.
-- Banco Mundial. *Global Findex 2025*. (catálogo en `Data/compass_artifact_...md`)
+- Banco Mundial. *Global Findex 2025*.
